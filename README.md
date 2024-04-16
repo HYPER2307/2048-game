@@ -15,7 +15,7 @@ To set up and run this game locally, follow these steps:
 
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/2048-game.git
+   git clone https://github.com/hyper2307/2048-game.git
    ```
 
 3. **Navigate to the project directory:**
